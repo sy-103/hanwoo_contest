@@ -12,3 +12,7 @@ data/processed/*
 
 data/test/*
 !data/test/.gitkeep
+
+# 특정 확장자 전체 무시
+*.docx
+*.js

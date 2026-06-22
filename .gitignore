@@ -16,3 +16,4 @@ data/test/*
 # 특정 확장자 전체 무시
 *.docx
 *.js
+data/*.csv
